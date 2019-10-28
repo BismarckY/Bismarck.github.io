@@ -3,7 +3,7 @@
   <title>No bullshit</title>
   
   <subtitle>err!= nil</subtitle>
-  <link href="/Bismarck.github.io/atom.xml" rel="self"/>
+  <link href="/Bismarcky.github.io/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2019-10-28T05:51:58.000Z</updated>
@@ -23,7 +23,7 @@
     <published>2019-10-28T05:51:58.000Z</published>
     <updated>2019-10-28T05:51:58.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>初始化 </li><li><ul><li>步骤 -1</li></ul></li><li><ul><li>步骤 -2</li></ul></li><li><ul><li>步骤 -3</li></ul></li></ul>]]></content>
+    <content type="html"><![CDATA[<ul><li>初始化 </li><li><ul><li>步骤 -1</li></ul></li><li><ul><li>步骤 -2</li></ul></li><li><ul><li>步骤 -3</li></ul></li><li><ul><li>步骤 -4</li></ul></li></ul>]]></content>
     
     <summary type="html">
     
@@ -43,8 +43,8 @@
 &lt;li&gt;步骤 -3&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;li&gt;&lt;ul&gt;
+&lt;li&gt;
       
     
     </summary>
