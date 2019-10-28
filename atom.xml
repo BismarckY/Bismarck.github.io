@@ -6,7 +6,7 @@
   <link href="/Bismarck.github.io/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-28T08:54:16.394Z</updated>
+  <updated>2019-10-28T08:57:50.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,20 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Tmp</title>
-    <link href="http://yoursite.com/2019/10/28/Tmp/"/>
-    <id>http://yoursite.com/2019/10/28/Tmp/</id>
-    <published>2019-10-28T08:54:16.394Z</published>
-    <updated>2019-10-28T08:54:16.394Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="Ali-Yun-CLI-command-collection"><a href="#Ali-Yun-CLI-command-collection" class="headerlink" title="Ali Yun CLI command collection"></a>Ali Yun CLI command collection</h3><p><em>Example:</em></p><p><code>aliyun ecs DescribeRegions |jq</code></p><p>slice, map, channel. using make(); 且返回的不是指针。</p><p><code>make ([]int, 10, 100)</code></p>]]></content>
+    <title>tmp</title>
+    <link href="http://yoursite.com/2019/10/28/tmp-0/"/>
+    <id>http://yoursite.com/2019/10/28/tmp-0/</id>
+    <published>2019-10-28T08:57:50.000Z</published>
+    <updated>2019-10-28T08:57:50.000Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;Ali-Yun-CLI-command-collection&quot;&gt;&lt;a href=&quot;#Ali-Yun-CLI-command-collection&quot; class=&quot;headerlink&quot; title=&quot;Ali Yun CLI command collection&quot;&gt;
-      
     
     </summary>
     
